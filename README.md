@@ -19,8 +19,8 @@ Test and Development Engineer experienced in designing and executing tests to en
 
                     
 
-<a href="https://github.com/chalmejd-TEAM" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalmejd-TEAM&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/chalmejd" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalmejd&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/chalmejd-TEAM/Dewesoft-Analyze" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chalmejd-TEAM&repo=Dewesoft-Analyze&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/chalmejd-TEAM/Smart-Brain" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chalmejd-TEAM&repo=Smart-Brain&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/chalmejd/Dewesoft-Analyze" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chalmejd&repo=Dewesoft-Analyze&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/chalmejd/Smart-Brain" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chalmejd&repo=Smart-Brain&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
